@@ -1,0 +1,12 @@
+Uuid: 7d7782b6cc1c4d7e9b4d22cb3dbdc20d
+ExtensionType: 2
+Name: Office Open XML Editor
+RepoName: office-open-xml-editor
+ScreenVersion: 1.0
+SerialVersion: 0
+MinPlatformVersion: 0
+ProOnly: False
+Author: Maxence Schmitt
+ShortDescription: Lets you edit Office Open XML files directly in Burp; useful for exploiting XXE
+EntryPoint: OfficeOpenXMLEditor.py
+BuildCommand: 
